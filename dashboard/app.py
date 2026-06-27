@@ -204,8 +204,7 @@ with st.sidebar:
     st.markdown("**Model**")
     st.markdown("`cardiffnlp/twitter-roberta-base-sentiment-latest`")
     st.markdown("---")
-    st.markdown("[View full source on GitHub](https://github.com/YOUR_USERNAME/live-sentiment-analyzer)")
-
+    st.markdown("[View full source on GitHub](https://github.com/meharkaur02/live-sentiment-analyzer)")
 init_state()
 maybe_add_record()
 
